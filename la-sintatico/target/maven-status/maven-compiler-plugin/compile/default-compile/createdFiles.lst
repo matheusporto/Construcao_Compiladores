@@ -1,0 +1,8 @@
+compiladores\la\sintatico\laParser.class
+compiladores\la\sintatico\laBaseListener.class
+compiladores\la\sintatico\laParser$TermoContext.class
+compiladores\la\sintatico\laLexer.class
+compiladores\la\sintatico\laListener.class
+compiladores\la\sintatico\laParser$CmdContext.class
+compiladores\la\sintatico\laParser$ProgramaContext.class
+compiladores\la\sintatico\laParser$ExprContext.class
